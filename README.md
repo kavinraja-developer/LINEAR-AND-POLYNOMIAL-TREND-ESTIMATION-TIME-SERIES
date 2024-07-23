@@ -1,6 +1,5 @@
-### Name : Kavinraja D
-### Register number: 212222240047
-# Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
+
+# LINEAR AND POLYNOMIAL TREND ESTIMATION
 Date:
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.

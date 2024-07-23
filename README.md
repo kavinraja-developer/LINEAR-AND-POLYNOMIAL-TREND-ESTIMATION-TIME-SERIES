@@ -1,6 +1,6 @@
 
 # LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:
+
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
